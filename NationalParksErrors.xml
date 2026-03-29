@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- Fault injected copy: wrong root, missing required attribute, missing phone, bad address close, duplicate name -->
 <NationalPark xmlns="https://mta-112.github.io/CSE445_A4_XML"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="https://mta-112.github.io/CSE445_A4_XML https://mta-112.github.io/CSE445_A4_XML/NationalParks.xsd">
