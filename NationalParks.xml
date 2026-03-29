@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!-- Directory of national parks: Figure 1 sample (Grand Canyon) plus additional real parks -->
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:noNamespaceSchemaLocation="https://mta-112.github.io/CSE445_A4_XML/NationalParks.xsd">
+<NationalParks xmlns="https://mta-112.github.io/CSE445_A4_XML"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://mta-112.github.io/CSE445_A4_XML https://mta-112.github.io/CSE445_A4_XML/NationalParks.xsd">
 	<NationalPark Rating="4.9">
 		<Name>Grand Canyon</Name>
 		<Phone>928-638-7496</Phone>
